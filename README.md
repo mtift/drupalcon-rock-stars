@@ -1,1 +1,0 @@
-# drupalcon-rock-stars

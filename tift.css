@@ -1,0 +1,58 @@
+.reveal {
+  font-size: 30px;
+}
+
+.reveal h2.author {
+  font-size: 120%;
+}
+
+.reveal li {
+  font-size: 190%;
+}
+
+.reveal p {
+  font-size: 130%;
+}
+
+.reveal code {
+  font-size: 110%;
+}
+
+.reveal h1.title,
+.reveal h3.date {
+  color: #0379c4
+}
+
+.reveal h2 {
+  /*color: #d8c99b*/
+}
+
+.reveal a {
+  color: #d8973c
+}
+
+.reveal strong {
+  color: #c40379
+}
+
+.reveal em {
+  /*color: #bd632f*/
+  color: #008080
+}
+
+.reveal h1 strong {
+  color: #79c403
+}
+
+.reveal li {
+  font-size: 190%;
+}
+
+.reveal p {
+  font-size: 120%;
+}
+
+.reveal small {
+  margin-top: -50px;
+  font-size: 30%;
+}
